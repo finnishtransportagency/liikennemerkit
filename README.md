@@ -10,7 +10,7 @@ Kirjasto on tarkoitettu käyttöön QGIS-paikkatieto-ohjelmassa, jossa sillä vo
 1. Asenna Resource sharing QGIS:n laajennosjakelusta (*Plugins* > *Manage and install plugins*).
 2. Avaa Resource sharing (*Plugins* > *Resource sharing*). Plugin näyttää listauksen saatavilla olevista kokoelmista. *HUOM. Testivaiheessa nämä kokoelmat eivät tule vielä automaattisesti näkyviin, vaan lähde pitää määritellä. Lopullisessa versiossa kohtia 3-5 ei tarvita.*
 3. Valitse vasemmanpuoleisesta valikosta välilehti *Settings*.
-4. Lisää uusi repositorio (*Add repository*). Aseta nimeksi **Liikennemerkit** ja osoitteeksi https://github.com/Tadusko/vayla-traffic-signs.git
+4. Lisää uusi repositorio (*Add repository*). Aseta nimeksi **Liikennemerkit** ja osoitteeksi https://github.com/finnishtransportagency/liikennemerkit.git
 5. Ohjelma ilmoittaa asennuksen onnistuneen. Palaa *All collections* välilehdelle.
 6. Saatavilla on nyt kolme kokoelmaa, jotka alkavat nimellä *Väylävirasto*. Asenna haluamasi kokoelmat.
 
