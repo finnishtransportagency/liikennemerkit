@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="425.197px" height="425.196px" viewBox="0 0 425.197 425.196" style="enable-background:new 0 0 425.197 425.196;"
+	 xml:space="preserve">
+<g>
+	<g id="LWPOLYLINE_1_">
+		
+			<rect x="14.173" y="14.175" style="fill:#005EB8;stroke:#005EB8;stroke-width:0.5;stroke-miterlimit:10;" width="396.85" height="396.847"/>
+	</g>
+	<g id="LWPOLYLINE_123_">
+		<path style="fill:#FFFFFF;" d="M391.177,14.175H34.019c-10.958,0-19.846,8.882-19.846,19.844v357.158
+			c0,10.957,8.888,19.845,19.846,19.845h357.158c10.956,0,19.846-8.888,19.846-19.845V34.019
+			C411.023,23.057,402.133,14.175,391.177,14.175z"/>
+	</g>
+	<g id="LWPOLYLINE_122_">
+		<path style="fill:#005EB8;" d="M391.177,24.096H34.019c-5.484,0-9.919,4.439-9.919,9.923v357.158c0,5.484,4.435,9.924,9.919,9.924
+			h357.158c5.484,0,9.919-4.439,9.919-9.924V34.019C401.096,28.535,396.662,24.096,391.177,24.096z"/>
+	</g>
+	<g id="LWPOLYLINE_3_">
+		<path style="fill:#FFFFFF;" d="M166.303,234.142V99.409l-29.765,29.77v-25.724l39.683-39.688l39.69,39.688v25.724l-29.773-29.77
+			v285.154h-19.835V262.201c0-5.479-4.445-9.917-9.929-9.917H76.279l29.764,29.759H80.32l-39.692-39.681l39.692-39.688h25.723
+			l-29.764,29.764h80.096C159.761,232.438,163.109,233.017,166.303,234.142"/>
+	</g>
+	<g id="LWPOLYLINE_2_">
+		<path style="fill:#FFFFFF;" d="M239.058,384.563h19.835V262.201c0-5.479,4.445-9.917,9.929-9.917h80.095l-29.764,29.759h25.724
+			l39.692-39.681l-39.692-39.688h-25.724l29.764,29.764h-80.095c-16.44,0-29.764,13.324-29.764,29.763V384.563z"/>
+	</g>
+</g>
+</svg>
