@@ -1,6 +1,7 @@
 ![Väyläviraston logo](https://vayla.fi/documents/20473/740592/vayla_sivussa_fi_sv_rgb.png)
 # Suomen liikennemerkit QGIS-kuvakirjastona
 [See below for English summary](https://github.com/finnishtransportagency/liikennemerkit#english-summary)
+
 Tässä repositoriossa on SVG-vektorikuvina Suomen maanteillä käytössä olevat liikennemerkit. Kokoelmissa ovat nykyiset ja uuden tieliikennelain myötä 1.6.2020 voimaantulevat merkit sekä näiden visualisoinnissa QGIS:ssä auttava prosessointiskripti. Liikennemerkit on nimetty ne yksilöivällä koodilla: tarkempaa tietoa kustakin merkistä saa [Väyläviraston verkkosivuilta](https://vayla.fi/tieverkko/liikennemerkit)
 
 ### Käyttöönotto QGIS 3 -ohjelmassa
@@ -21,8 +22,7 @@ Jos pisteissä on Digiroadin tapaan attribuuttitietona, mitä merkkiä ne esitt�
 2. Sarake, jossa kolminumeroiset merkkikoodit ovat. Digiroadissa tämä on *TYYPPI* ja tierekisterissä *ASETUSNR*.
 3. *Vapaavalintainen*. Jotta nopeusrajoitusmerkeissä näkyisivät oikeat luvut, valitse sarake, jossa tämä tieto on. DR:ssa sarake *ARVO* ja tierekisterissä *LMTEKSTI*.
 
-Jos kaikki menee kuten pitää, pisteet korvautuvat välittömästi oikealla merkeillä karttaikkunassa.
-**HUOM. Skripti toimii toistaiseksi vain vanhoilla merkeillä.**
+Jos kaikki menee kuten pitää, pisteet korvautuvat välittömästi oikealla merkeillä karttaikkunassa. Jos kuvapisteissä näkyy vain mustia kysymysmerkkejä, varmista valitseesi oikean tason ja sarakkeet.
 
 ### Käyttöehdot
 Liikennemerkkikuvien lisenssi on CC 4.0 BY. Lue lisää lisenssistä [Creative Commonsin verkkosivuilla](http://creativecommons.org/licenses/by/4.0/) ja Väyläviraston [avoimen datan käyttöehdoista](https://vayla.fi/avoindata/kayttoehdot).
