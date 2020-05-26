@@ -29,6 +29,6 @@ Jos kaikki menee kuten pitää, pisteet korvautuvat välittömästi oikealla mer
 Liikennemerkkikuvien lisenssi on CC 4.0 BY. Lue lisää lisenssistä [Creative Commonsin verkkosivuilla](http://creativecommons.org/licenses/by/4.0/) ja Väyläviraston [avoimen datan käyttöehdoista](https://vayla.fi/avoindata/kayttoehdot).
 
 ### English summary
-This repository houses SVG image libraries of Finnish road traffic signs. The libraries can be imported to QGIS using the [Resource sharing plugin](http://qgis-contribution.github.io/QGIS-ResourceSharing/). The collections also include a prosessing script for easily visualizing a point layer with the images.
+This repository houses SVG image libraries of Finnish road traffic signs (read more on the signs [here](https://vayla.fi/web/en/road-network/traffic-signs)). The libraries can be imported to QGIS using the [Resource sharing plugin](http://qgis-contribution.github.io/QGIS-ResourceSharing/). The collections also include a prosessing script for easily visualizing a point layer with the images.
 
 The image data is provided by Finnish Transport Infrastructure Agency and is shared under CC 4.0 BY. Read more on the license [here](http://creativecommons.org/licenses/by/4.0/).
