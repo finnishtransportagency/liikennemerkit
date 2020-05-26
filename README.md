@@ -1,6 +1,6 @@
 ![Väyläviraston logo](https://vayla.fi/documents/20473/740592/vayla_sivussa_fi_sv_rgb.png)
 # Suomen liikennemerkit QGIS-kuvakirjastona
-[See below for English summary](https://github.com/finnishtransportagency/liikennemerkit#english-summary)
+[See below for summary in English](https://github.com/finnishtransportagency/liikennemerkit#english-summary)
 
 Tässä repositoriossa on SVG-vektorikuvina Suomen maanteillä käytössä olevat liikennemerkit. Kokoelmissa ovat nykyiset ja uuden tieliikennelain myötä 1.6.2020 voimaantulevat merkit sekä näiden visualisoinnissa QGIS:ssä auttava prosessointiskripti. Liikennemerkit on nimetty ne yksilöivällä koodilla: tarkempaa tietoa kustakin merkistä saa [Väyläviraston verkkosivuilta](https://vayla.fi/tieverkko/liikennemerkit)
 
@@ -28,7 +28,7 @@ Jos kaikki menee kuten pitää, pisteet korvautuvat välittömästi oikealla mer
 ### Käyttöehdot
 Liikennemerkkikuvien lisenssi on CC 4.0 BY. Lue lisää lisenssistä [Creative Commonsin verkkosivuilla](http://creativecommons.org/licenses/by/4.0/) ja Väyläviraston [avoimen datan käyttöehdoista](https://vayla.fi/avoindata/kayttoehdot).
 
-### English summary
+### Summary in English
 This repository houses SVG image libraries of Finnish road traffic signs (read more on the signs [here](https://vayla.fi/web/en/road-network/traffic-signs)). The libraries can be imported to QGIS using the [Resource sharing plugin](http://qgis-contribution.github.io/QGIS-ResourceSharing/). The collections also include a prosessing script for easily visualizing a point layer with the images.
 
 The image data is provided by Finnish Transport Infrastructure Agency and is shared under CC 4.0 BY. Read more on the license [here](http://creativecommons.org/licenses/by/4.0/).
