@@ -178,13 +178,13 @@ class SignStylizer(QgsProcessingAlgorithm):
         # read user selection on whether to use old or new signs
         # transform this into a usable string
         if old_or_new_selection == "1":
-            old_or_new_selection="uudet"
+            old_or_new_selection="new"
         else:
-            old_or_new_selection="vanhat"
+            old_or_new_selection="old"
         
         #if the SVG's are installed via Resource sharing, they should be here
         path = (QgsApplication.qgisSettingsDirPath() + "resource_sharing/collections/Väylävirasto"+ 
-                " {} liikennemerkit (Liikennemerkit)/svg/").format(old_or_new_selection)
+                " {} traffic signs (Liikennemerkit)/svg/").format(old_or_new_selection)
         #Windows path hijinks
         resource_path = path.replace("\\", "/")
         
@@ -194,7 +194,7 @@ class SignStylizer(QgsProcessingAlgorithm):
         # creating two expressions, one for defining the path to each SVG image
         # the other for scaling image size based on current map scale
         # the syntax of these strings is the one used in QGIS's Expression bulder
-        if (speed_field and old_or_new_selection=="vanhat"):
+        if (speed_field and old_or_new_selection=="old"):
             path_exp = ("CASE WHEN \"{1}\"=361 AND \"{2}\"=50 THEN concat(\'{0}\', \"{1}\", \'-1.svg\')"+
         " WHEN \"{1}\"=361 AND \"{2}\"=20 THEN concat(\'{0}\', \"{1}\", \'-2.svg\')"+
         " WHEN \"{1}\"=361 AND \"{2}\"=70 THEN concat(\'{0}\', \"{1}\", \'-3.svg\')"+
@@ -204,7 +204,7 @@ class SignStylizer(QgsProcessingAlgorithm):
         " WHEN \"{1}\"=361 AND \"{2}\"=30 THEN concat(\'{0}\', \"{1}\", \'-7.svg\')"+
         " WHEN \"{1}\"=361 AND \"{2}\"=40 THEN concat(\'{0}\', \"{1}\", \'-8.svg\')"+
         " ELSE concat(\'{0}\', \"{1}\", \'.svg\') END").format(resource_path, value_field, speed_field)
-        elif (speed_field and old_or_new_selection=="uudet"):
+        elif (speed_field and old_or_new_selection=="new"):
             path_exp = ("CASE WHEN \"{1}\"= \'C32\' AND \"{2}\"=20 THEN concat(\'{0}\', \"{1}\", \'_2.svg\')"+
         " WHEN \"{1}\"=\'C32\' AND \"{2}\"=30 THEN concat(\'{0}\', \"{1}\", \'_3.svg\')"+
         " WHEN \"{1}\"=\'C32\'AND \"{2}\"=40 THEN concat(\'{0}\', \"{1}\", \'_4.svg\')"+
