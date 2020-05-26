@@ -1,6 +1,6 @@
 ![Väyläviraston logo](https://vayla.fi/documents/20473/740592/vayla_sivussa_fi_sv_rgb.png)
 # Suomen liikennemerkit QGIS-kuvakirjastona
-[See below for summary in English](https://github.com/finnishtransportagency/liikennemerkit#english-summary)
+[See below for summary in English](https://github.com/finnishtransportagency/liikennemerkit#summary-in-english)
 
 Tässä repositoriossa on SVG-vektorikuvina Suomen maanteillä käytössä olevat liikennemerkit. Kokoelmissa ovat nykyiset ja uuden tieliikennelain myötä 1.6.2020 voimaantulevat merkit sekä näiden visualisoinnissa QGIS:ssä auttava prosessointiskripti. Liikennemerkit on nimetty ne yksilöivällä koodilla: tarkempaa tietoa kustakin merkistä saa [Väyläviraston verkkosivuilta](https://vayla.fi/tieverkko/liikennemerkit)
 
