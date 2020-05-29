@@ -181,12 +181,12 @@ class SignStylizer(QgsProcessingAlgorithm):
             old_or_new_selection="new"
         else:
             old_or_new_selection="old"
-        
         #if the SVG's are installed via Resource sharing, they should be here
-        path = (QgsApplication.qgisSettingsDirPath() + "resource_sharing/collections/Väylävirasto"+ 
-                " {} traffic signs (Liikennemerkit)/svg/").format(old_or_new_selection)
+        path1 = (QgsApplication.qgisSettingsDirPath() + "resource_sharing/collections/Väylävirasto"+ 
+                " {} traffic signs (Finnish Transport Infra Agency").format(old_or_new_selection)
+        path2 = "\'s Repository)/svg/\'"
         #Windows path hijinks
-        resource_path = path.replace("\\", "/")
+        resource_path = path1.replace("\\", "/")
         
         # creating a dummy symbol layer, which will be styled later
         svg_layer = QgsSvgMarkerSymbolLayer("circle")
@@ -195,27 +195,27 @@ class SignStylizer(QgsProcessingAlgorithm):
         # the other for scaling image size based on current map scale
         # the syntax of these strings is the one used in QGIS's Expression bulder
         if (speed_field and old_or_new_selection=="old"):
-            path_exp = ("CASE WHEN \"{1}\"=361 AND \"{2}\"=50 THEN concat(\'{0}\', \"{1}\", \'-1.svg\')"+
-        " WHEN \"{1}\"=361 AND \"{2}\"=20 THEN concat(\'{0}\', \"{1}\", \'-2.svg\')"+
-        " WHEN \"{1}\"=361 AND \"{2}\"=70 THEN concat(\'{0}\', \"{1}\", \'-3.svg\')"+
-        " WHEN \"{1}\"=361 AND \"{2}\"=80 THEN concat(\'{0}\', \"{1}\", \'-4.svg\')"+
-        " WHEN \"{1}\"=361 AND \"{2}\"=100 THEN concat(\'{0}\', \"{1}\", \'-5.svg\')"+
-        " WHEN \"{1}\"=361 AND \"{2}\"=120 THEN concat(\'{0}\', \"{1}\", \'-6.svg\')"+
-        " WHEN \"{1}\"=361 AND \"{2}\"=30 THEN concat(\'{0}\', \"{1}\", \'-7.svg\')"+
-        " WHEN \"{1}\"=361 AND \"{2}\"=40 THEN concat(\'{0}\', \"{1}\", \'-8.svg\')"+
-        " ELSE concat(\'{0}\', \"{1}\", \'.svg\') END").format(resource_path, value_field, speed_field)
+            path_exp = ("CASE WHEN \"{1}\"=361 AND \"{2}\"=50 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-1.svg\')"+
+        " WHEN \"{1}\"=361 AND \"{2}\"=20 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-2.svg\')"+
+        " WHEN \"{1}\"=361 AND \"{2}\"=70 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-3.svg\')"+
+        " WHEN \"{1}\"=361 AND \"{2}\"=80 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-4.svg\')"+
+        " WHEN \"{1}\"=361 AND \"{2}\"=100 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-5.svg\')"+
+        " WHEN \"{1}\"=361 AND \"{2}\"=120 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-6.svg\')"+
+        " WHEN \"{1}\"=361 AND \"{2}\"=30 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-7.svg\')"+
+        " WHEN \"{1}\"=361 AND \"{2}\"=40 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-8.svg\')"+
+        " ELSE concat(\'{0}\', char(39), {3}, \"{1}\", \'.svg\') END").format(resource_path, value_field, speed_field, path2)
         elif (speed_field and old_or_new_selection=="new"):
-            path_exp = ("CASE WHEN \"{1}\"= \'C32\' AND \"{2}\"=20 THEN concat(\'{0}\', \"{1}\", \'_2.svg\')"+
-        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=30 THEN concat(\'{0}\', \"{1}\", \'_3.svg\')"+
-        " WHEN \"{1}\"=\'C32\'AND \"{2}\"=40 THEN concat(\'{0}\', \"{1}\", \'_4.svg\')"+
-        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=50 THEN concat(\'{0}\', \"{1}\", \'_5.svg\')"+
-        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=70 THEN concat(\'{0}\', \"{1}\", \'_6.svg\')"+
-        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=80 THEN concat(\'{0}\', \"{1}\", \'_7.svg\')"+
-        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=100 THEN concat(\'{0}\', \"{1}\", \'_8.svg\')"+
-        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=120 THEN concat(\'{0}\', \"{1}\", \'_9.svg\')"+
-        " ELSE concat(\'{0}\', \"{1}\", \'.svg\') END").format(resource_path, value_field, speed_field)
+            path_exp = ("CASE WHEN \"{1}\"= \'C32\' AND \"{2}\"=20 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_2.svg\')"+
+        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=30 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_3.svg\')"+
+        " WHEN \"{1}\"=\'C32\'AND \"{2}\"=40 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_4.svg\')"+
+        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=50 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_5.svg\')"+
+        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=70 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_6.svg\')"+
+        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=80 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_7.svg\')"+
+        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=100 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_8.svg\')"+
+        " WHEN \"{1}\"=\'C32\' AND \"{2}\"=120 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_9.svg\')"+
+        " ELSE concat(\'{0}\', char(39), {3}, \"{1}\", \'.svg\') END").format(resource_path, value_field, speed_field, path2)
         else:
-            path_exp = "concat(\'{0}\', \"{1}\", \'.svg\')".format(resource_path, value_field)
+            path_exp = "concat(\'{0}\', char(39), {2}, \"{1}\", \'.svg\')".format(resource_path, value_field, path2)
         size_exp = ("CASE WHEN @map_scale < 10000 THEN 11 WHEN @map_scale < 50000 THEN 8" + 
                     " WHEN @map_scale < 100000 THEN 7 WHEN @map_scale < 150000 THEN 6 WHEN @map_scale < 500000"+ 
                     " THEN 4 ELSE 3 END")
