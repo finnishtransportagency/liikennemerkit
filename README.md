@@ -8,11 +8,8 @@ Tässä repositoriossa on SVG-vektorikuvina Suomen maanteillä käytössä oleva
 Kirjasto on tarkoitettu käyttöön QGIS-paikkatieto-ohjelmassa, jossa sillä voi visualisoida esimerkiksi [Digiroadin](https://vayla.fi/avoindata/digiroad) tai tierekisterin (saatavilla [Väyläviraston latauspalvelun](https://julkinen.vayla.fi/oskari/) kautta) tarjoamia liikennemerkkien sijaintipisteitä. Merkit ladataan QGIS:iin [Resource sharing](http://qgis-contribution.github.io/QGIS-ResourceSharing/) -nimisen laajennoksen (plugin) kautta.
 
 1. Asenna Resource sharing QGIS:n laajennosjakelusta (*Plugins* > *Manage and install plugins*).
-2. Avaa Resource sharing (*Plugins* > *Resource sharing*). Plugin näyttää listauksen saatavilla olevista kokoelmista. *HUOM. Testivaiheessa nämä kokoelmat eivät tule vielä automaattisesti näkyviin, vaan lähde pitää määritellä. Lopullisessa versiossa kohtia 3-5 ei tarvita.*
-3. Valitse vasemmanpuoleisesta valikosta välilehti *Settings*.
-4. Lisää uusi repositorio (*Add repository*). Aseta nimeksi **Liikennemerkit** ja osoitteeksi https://github.com/finnishtransportagency/liikennemerkit.git
-5. Ohjelma ilmoittaa asennuksen onnistuneen. Palaa *All collections* välilehdelle.
-6. Saatavilla on nyt kolme kokoelmaa, jotka alkavat nimellä *Väylävirasto*. Asenna haluamasi kokoelmat.
+2. Avaa Resource sharing (*Plugins* > *Resource sharing*). Plugin näyttää listauksen saatavilla olevista kokoelmista. Näiden joukossa on kolme *Väylävirasto...*-alkuista kokoelmaa. Voit rajata kokoelmia myös yläosan hakupalkista.
+3. Asenna haluamasi kokoelmat.
 
 ### Kirjastojen käyttö
 Pistemuotoiset datat voi visualisoida SVG-kuvilla avaamalla tason symbologian ja asettamalla symbolityypiksi *SVG marker*. Liikennemerkit ovat valikon alaosassa (*SVG Groups*/*SVG Image*).
