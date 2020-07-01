@@ -19,11 +19,12 @@ Jos pisteissä on Digiroadin tapaan attribuuttitietona, mitä merkkiä ne esitt�
 2. Pistemuotoinen taso (esimerkiksi Digiroadin liikennemerkkipisteet).
 3. Sarake, jossa kolminumeroiset merkkikoodit ovat. Digiroadissa tämä on *TYYPPI* ja tierekisterissä *ASETUSNR*.
 4. *Vapaavalintainen*. Jotta nopeusrajoitusmerkeissä näkyisivät oikeat luvut, valitse sarake, jossa tämä tieto on. DR:ssa sarake *ARVO* ja tierekisterissä *LMTEKSTI*.
+5. Skripti voi myös asettaa kuvat skaalautumaan karttanäkymän mittakaavan mukaan. 
 
 Jos kaikki menee kuten pitää, pisteet korvautuvat välittömästi oikealla merkeillä karttaikkunassa. Jos kuvapisteissä näkyy vain mustia kysymysmerkkejä, varmista valitseesi oikean tason ja sarakkeet.
 
 ### Käyttöehdot
-Liikennemerkkikuvien lisenssi on CC 4.0 BY. Lue lisää lisenssistä [Creative Commonsin verkkosivuilla](http://creativecommons.org/licenses/by/4.0/) ja Väyläviraston [avoimen datan käyttöehdoista](https://vayla.fi/avoindata/kayttoehdot).
+Liikennemerkkikuvat jaetaan avoimena datana ilman muita vaatimuksia (CC0). Lue lisää lausumasta [Creative Commonsin verkkosivuilla](https://creativecommons.org/publicdomain/zero/1.0/deed.fi).
 
 ### Palaute
 Kehitysehdotuksia tai bugi-ilmoituksia, ruusuja tai risuja? Lähetä ne osoitteeseen paikkatieto(ät)vayla.fi tai avaa uusi keskustelu tämän repositorion *Issues*-välilehdellä.
@@ -31,4 +32,4 @@ Kehitysehdotuksia tai bugi-ilmoituksia, ruusuja tai risuja? Lähetä ne osoittee
 ### Summary in English
 This repository houses SVG image libraries of Finnish road traffic signs (read more on the signs [here](https://vayla.fi/web/en/road-network/traffic-signs)). The libraries can be imported to QGIS using the [Resource sharing plugin](http://qgis-contribution.github.io/QGIS-ResourceSharing/). The collections also include a prosessing script for easily visualizing a point layer with the images.
 
-The image data is provided by Finnish Transport Infrastructure Agency and is shared under CC 4.0 BY. Read more on the license [here](http://creativecommons.org/licenses/by/4.0/).
+The image data is provided by Finnish Transport Infrastructure Agency and is shared under CC0. Read more on the deed [here](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
