@@ -1,56 +1,124 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="425.197px" height="425.196px" viewBox="0 0 425.197 425.196" style="enable-background:new 0 0 425.197 425.196;"
-	 xml:space="preserve">
-<g id="LWPOLYLINE_7_">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="397.56171"
+   height="397.57269"
+   viewBox="0 0 397.56171 397.57268"
+   xml:space="preserve"
+   sodipodi:docname="C34_3.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata2421"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs2419" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview2417"
+   showgrid="false"
+   inkscape:zoom="0.55503813"
+   inkscape:cx="198.78085"
+   inkscape:cy="198.78634"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="LWPOLYLINE_7_"
+   transform="translate(-13.81765,-13.81165)">
 	
-		<polygon style="fill:#FFCD00;stroke:#FFCD00;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
-		411.025,411.03 14.172,411.03 14.172,14.294 411.025,14.166 	"/>
+		<polygon
+   style="fill:#ffcd00;stroke:#ffcd00;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   points="14.172,14.294 411.025,14.166 411.025,411.03 14.172,411.03 "
+   id="polygon2392" />
 </g>
-<g id="LWPOLYLINE_6_">
+<g
+   id="LWPOLYLINE_6_"
+   transform="translate(-13.81765,-13.81165)">
 	
-		<path style="fill:#E4002B;stroke:#E4002B;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
-		M391.178,411.03H34.014c-10.956,0-19.842-8.886-19.842-19.847V34.131c0-10.956,8.881-19.837,19.838-19.842l357.159-0.118
-		c10.966,0,19.856,8.886,19.856,19.842v357.171C411.025,402.145,402.134,411.03,391.178,411.03z"/>
+		<path
+   style="fill:#e4002b;stroke:#e4002b;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   d="M 391.178,411.03 H 34.014 c -10.956,0 -19.842,-8.886 -19.842,-19.847 V 34.131 c 0,-10.956 8.881,-19.837 19.838,-19.842 l 357.159,-0.118 c 10.966,0 19.856,8.886 19.856,19.842 v 357.171 c 0,10.961 -8.891,19.846 -19.847,19.846 z"
+   id="path2395"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_8_">
+<g
+   id="LWPOLYLINE_8_"
+   transform="translate(-13.81765,-13.81165)">
 	
-		<path style="fill:#FFCD00;stroke:#FFCD00;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
-		M388.975,397.799H36.221c-4.869,0-8.818-3.949-8.818-8.817V36.333c0-4.868,3.945-8.817,8.813-8.817l352.75-0.118
-		c4.878,0,8.827,3.949,8.827,8.817v352.767C397.793,393.85,393.844,397.799,388.975,397.799z"/>
+		<path
+   style="fill:#ffcd00;stroke:#ffcd00;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   d="M 388.975,397.799 H 36.221 c -4.869,0 -8.818,-3.949 -8.818,-8.817 V 36.333 c 0,-4.868 3.945,-8.817 8.813,-8.817 l 352.75,-0.118 c 4.878,0 8.827,3.949 8.827,8.817 v 352.767 c 0,4.868 -3.949,8.817 -8.818,8.817 z"
+   id="path2398"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="CIRCLE_2_">
+<g
+   id="CIRCLE_2_"
+   transform="translate(-13.81765,-13.81165)">
 	
-		<path style="fill:#E4002B;stroke:#E4002B;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
-		M349.292,212.63c0-75.492-61.206-136.693-136.699-136.693c-75.49,0-136.687,61.201-136.687,136.693
-		c0,75.493,61.196,136.689,136.687,136.689C288.085,349.319,349.292,288.123,349.292,212.63L349.292,212.63z"/>
+		<path
+   style="fill:#e4002b;stroke:#e4002b;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   d="m 349.292,212.63 c 0,-75.492 -61.206,-136.693 -136.699,-136.693 -75.49,0 -136.687,61.201 -136.687,136.693 0,75.493 61.196,136.689 136.687,136.689 75.492,0 136.699,-61.196 136.699,-136.689 z"
+   id="path2401"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="CIRCLE_3_">
+<g
+   id="CIRCLE_3_"
+   transform="translate(-13.81765,-13.81165)">
 	
-		<path style="fill:#FFCD00;stroke:#FFCD00;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
-		M320.626,212.63c0-59.663-48.366-108.029-108.034-108.029c-59.661,0-108.027,48.366-108.027,108.029
-		c0,59.664,48.366,108.029,108.027,108.029C272.26,320.659,320.626,272.294,320.626,212.63L320.626,212.63z"/>
+		<path
+   style="fill:#ffcd00;stroke:#ffcd00;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   d="m 320.626,212.63 c 0,-59.663 -48.366,-108.029 -108.034,-108.029 -59.661,0 -108.027,48.366 -108.027,108.029 0,59.664 48.366,108.029 108.027,108.029 59.668,0 108.034,-48.365 108.034,-108.029 z"
+   id="path2404"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_9_">
+<g
+   id="LWPOLYLINE_9_"
+   transform="translate(-13.81765,-13.81165)">
 	
-		<path style="fill:#101820;stroke:#101820;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
-		M221.419,244.599c0,20.088,16.279,36.376,36.372,36.376s36.382-16.288,36.382-36.376v-59.527c0-20.093-16.289-36.382-36.382-36.382
-		s-36.372,16.289-36.372,36.382V244.599z"/>
+		<path
+   style="fill:#101820;stroke:#101820;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   d="m 221.419,244.599 c 0,20.088 16.279,36.376 36.372,36.376 20.093,0 36.382,-16.288 36.382,-36.376 v -59.527 c 0,-20.093 -16.289,-36.382 -36.382,-36.382 -20.093,0 -36.372,16.289 -36.372,36.382 z"
+   id="path2407"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_10_">
+<g
+   id="LWPOLYLINE_10_"
+   transform="translate(-13.81765,-13.81165)">
 	
-		<path style="fill:#101820;stroke:#101820;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
-		M134.336,244.599c0,20.088,16.289,36.376,36.376,36.376c20.095,0,36.384-16.288,36.384-36.376v-14.551
-		c0-20.093-16.289-36.377-36.384-36.377c-5.073,0-10.087,1.06-14.728,3.112l2.826-28.246h36.375l-1.32-19.848h-52.913l-6.616,66.147
-		l23.15,5.287c3.122-4.163,8.026-6.615,13.227-6.615c9.139,0,16.537,7.407,16.537,16.539v14.551c0,9.131-7.398,16.534-16.537,16.534
-		c-9.131,0-16.534-7.403-16.534-16.534H134.336z"/>
+		<path
+   style="fill:#101820;stroke:#101820;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   d="m 134.336,244.599 c 0,20.088 16.289,36.376 36.376,36.376 20.095,0 36.384,-16.288 36.384,-36.376 v -14.551 c 0,-20.093 -16.289,-36.377 -36.384,-36.377 -5.073,0 -10.087,1.06 -14.728,3.112 l 2.826,-28.246 h 36.375 l -1.32,-19.848 h -52.913 l -6.616,66.147 23.15,5.287 c 3.122,-4.163 8.026,-6.615 13.227,-6.615 9.139,0 16.537,7.407 16.537,16.539 v 14.551 c 0,9.131 -7.398,16.534 -16.537,16.534 -9.131,0 -16.534,-7.403 -16.534,-16.534 h -19.843 z"
+   id="path2410"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_11_">
+<g
+   id="LWPOLYLINE_11_"
+   transform="translate(-13.81765,-13.81165)">
 	
-		<path style="fill:#FFCD00;stroke:#FFCD00;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" d="
-		M241.257,244.599c0,9.131,7.407,16.534,16.534,16.534c9.137,0,16.535-7.403,16.535-16.534v-59.527
-		c0-9.137-7.398-16.534-16.535-16.534c-9.127,0-16.534,7.397-16.534,16.534V244.599z"/>
+		<path
+   style="fill:#ffcd00;stroke:#ffcd00;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   d="m 241.257,244.599 c 0,9.131 7.407,16.534 16.534,16.534 9.137,0 16.535,-7.403 16.535,-16.534 v -59.527 c 0,-9.137 -7.398,-16.534 -16.535,-16.534 -9.127,0 -16.534,7.397 -16.534,16.534 z"
+   id="path2413"
+   inkscape:connector-curvature="0" />
 </g>
 </svg>

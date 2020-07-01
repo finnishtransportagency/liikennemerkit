@@ -1,24 +1,83 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="425.197px" height="425.196px" viewBox="0 0 425.197 425.196" style="enable-background:new 0 0 425.197 425.196;"
-	 xml:space="preserve">
-<g id="LWPOLYLINE_143_">
-	<rect x="14.172" y="80.313" style="fill:#FFCD00;" width="396.853" height="264.571"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="396.853"
+   height="264.57101"
+   viewBox="0 0 396.85301 264.57101"
+   xml:space="preserve"
+   sodipodi:docname="H1.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata19"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs17" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview15"
+   showgrid="false"
+   inkscape:zoom="0.55503813"
+   inkscape:cx="198.4265"
+   inkscape:cy="132.28601"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="LWPOLYLINE_143_"
+   transform="translate(-14.172,-80.313)">
+	<rect
+   x="14.172"
+   y="80.313004"
+   style="fill:#ffcd00"
+   width="396.853"
+   height="264.57101"
+   id="rect2" />
 </g>
-<g id="LWPOLYLINE_145_">
-	<path style="fill:#E4002B;" d="M384.56,344.884H40.627c-14.613,0-26.455-11.848-26.455-26.461V106.768
-		c0-14.613,11.842-26.455,26.455-26.455H384.56c14.613,0,26.465,11.842,26.465,26.455v211.655
-		C411.025,333.036,399.173,344.884,384.56,344.884z"/>
+<g
+   id="LWPOLYLINE_145_"
+   transform="translate(-14.172,-80.313)">
+	<path
+   style="fill:#e4002b"
+   d="M 384.56,344.884 H 40.627 c -14.613,0 -26.455,-11.848 -26.455,-26.461 V 106.768 c 0,-14.613 11.842,-26.455 26.455,-26.455 H 384.56 c 14.613,0 26.465,11.842 26.465,26.455 v 211.655 c 0,14.613 -11.852,26.461 -26.465,26.461 z"
+   id="path5"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_144_">
-	<path style="fill:#FFCD00;" d="M384.56,331.655H40.627c-7.306,0-13.228-5.926-13.228-13.232V106.768
-		c0-7.302,5.921-13.228,13.228-13.228H384.56c7.312,0,13.228,5.926,13.228,13.228v211.655
-		C397.788,325.729,391.872,331.655,384.56,331.655z"/>
+<g
+   id="LWPOLYLINE_144_"
+   transform="translate(-14.172,-80.313)">
+	<path
+   style="fill:#ffcd00"
+   d="M 384.56,331.655 H 40.627 c -7.306,0 -13.228,-5.926 -13.228,-13.232 V 106.768 c 0,-7.302 5.921,-13.228 13.228,-13.228 H 384.56 c 7.312,0 13.228,5.926 13.228,13.228 v 211.655 c 0,7.306 -5.916,13.232 -13.228,13.232 z"
+   id="path8"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_146_">
-	<path style="fill:#101820;" d="M133.227,301.892V176.22c0-7.307,5.917-13.232,13.228-13.232h99.548l-39.691-39.683h32.736
-		l52.92,52.915l-52.92,52.916h-32.736l39.691-39.688h-79.711c-3.646,0-6.609,2.958-6.609,6.613v105.831H133.227z"/>
+<g
+   id="LWPOLYLINE_146_"
+   transform="translate(-14.172,-80.313)">
+	<path
+   style="fill:#101820"
+   d="M 133.227,301.892 V 176.22 c 0,-7.307 5.917,-13.232 13.228,-13.232 h 99.548 l -39.691,-39.683 h 32.736 l 52.92,52.915 -52.92,52.916 h -32.736 l 39.691,-39.688 h -79.711 c -3.646,0 -6.609,2.958 -6.609,6.613 v 105.831 z"
+   id="path11"
+   inkscape:connector-curvature="0" />
 </g>
 </svg>

@@ -1,16 +1,68 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="595px" height="842px" viewBox="0 0 595 842" style="enable-background:new 0 0 595 842;" xml:space="preserve">
-<g>
-	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFD200;" d="M44.56,676.256c-17.568-0.504-25.92-18.864-18.504-33.552
-		l238.608-430.488c9.216-16.056,28.152-13.752,36.864,0l238.608,430.488c7.056,13.752,0,30.744-15.84,33.552H44.56z"/>
-	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#EF3E42;" d="M44.128,669.776c-12.312-0.432-18.504-13.752-12.744-23.832
-		l238.104-430.488c5.76-10.152,20.232-11.016,26.856,0L534.88,645.944c5.688,10.08-1.368,24.336-13.68,23.832H44.128z"/>
-	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFD200;" points="86.824,628.448 283.168,274.64 478.936,628.448 	"/>
-	<path style="fill-rule:evenodd;clip-rule:evenodd;" d="M187.192,605.984l0.432-66.096c2.664-48.672,34.776-89.064,77.04-102.816
-		c6.192-2.304,50.976-14.256,50.976-14.256l29.952,17.928l-17.64,31.176c-29.808,8.28-46.584,12.888-50.544,14.256
-		c-22.464,8.712-40.896,30.744-40.896,60.624v59.184H187.192z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="519.5238"
+   height="475.23465"
+   viewBox="0 0 519.5238 475.23465"
+   xml:space="preserve"
+   sodipodi:docname="111.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata17"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs15" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview13"
+   showgrid="false"
+   inkscape:zoom="0.28028504"
+   inkscape:cx="274.15206"
+   inkscape:cy="255.256"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g10"
+   transform="translate(-23.347943,-201.02135)">
+	<path
+   style="clip-rule:evenodd;fill:#ffd200;fill-rule:evenodd"
+   d="M 44.56,676.256 C 26.992,675.752 18.64,657.392 26.056,642.704 L 264.664,212.216 c 9.216,-16.056 28.152,-13.752 36.864,0 l 238.608,430.488 c 7.056,13.752 0,30.744 -15.84,33.552 z"
+   id="path2"
+   inkscape:connector-curvature="0" />
+	<path
+   style="clip-rule:evenodd;fill:#ef3e42;fill-rule:evenodd"
+   d="M 44.128,669.776 C 31.816,669.344 25.624,656.024 31.384,645.944 L 269.488,215.456 c 5.76,-10.152 20.232,-11.016 26.856,0 L 534.88,645.944 c 5.688,10.08 -1.368,24.336 -13.68,23.832 z"
+   id="path4"
+   inkscape:connector-curvature="0" />
+	<polygon
+   style="clip-rule:evenodd;fill:#ffd200;fill-rule:evenodd"
+   points="283.168,274.64 478.936,628.448 86.824,628.448 "
+   id="polygon6" />
+	<path
+   style="clip-rule:evenodd;fill-rule:evenodd"
+   d="m 187.192,605.984 0.432,-66.096 c 2.664,-48.672 34.776,-89.064 77.04,-102.816 6.192,-2.304 50.976,-14.256 50.976,-14.256 l 29.952,17.928 -17.64,31.176 c -29.808,8.28 -46.584,12.888 -50.544,14.256 -22.464,8.712 -40.896,30.744 -40.896,60.624 v 59.184 z"
+   id="path8"
+   inkscape:connector-curvature="0" />
 </g>
 </svg>

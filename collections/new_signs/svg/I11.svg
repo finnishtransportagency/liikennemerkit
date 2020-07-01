@@ -1,26 +1,92 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="425.197px" height="425.196px" viewBox="0 0 425.197 425.196" style="enable-background:new 0 0 425.197 425.196;"
-	 xml:space="preserve">
-<g id="LWPOLYLINE_69_">
-	<rect x="113.386" y="14.175" style="fill:#005EB8;" width="198.425" height="396.845"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="198.925"
+   height="397.345"
+   viewBox="0 0 198.92501 397.34499"
+   xml:space="preserve"
+   sodipodi:docname="I11.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata3999"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3997" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview3995"
+   showgrid="false"
+   inkscape:zoom="0.55503813"
+   inkscape:cx="99.462494"
+   inkscape:cy="198.67199"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="LWPOLYLINE_69_"
+   transform="translate(-113.136,-13.925)">
+	<rect
+   x="113.386"
+   y="14.175"
+   style="fill:#005eb8"
+   width="198.425"
+   height="396.845"
+   id="rect3979" />
 </g>
-<g id="LWPOLYLINE_65_">
-	<polygon style="fill:#FFFFFF;" points="113.386,411.021 113.386,351.497 212.6,252.28 311.811,351.497 311.811,411.021 
-		212.6,311.81 	"/>
+<g
+   id="LWPOLYLINE_65_"
+   transform="translate(-113.136,-13.925)">
+	<polygon
+   style="fill:#ffffff"
+   points="212.6,252.28 311.811,351.497 311.811,411.021 212.6,311.81 113.386,411.021 113.386,351.497 "
+   id="polygon3982" />
 </g>
-<g id="LWPOLYLINE_66_">
-	<polygon style="fill:#FFFFFF;" points="113.386,291.968 113.386,232.44 212.6,133.228 311.811,232.44 311.811,291.968 
-		212.6,192.756 	"/>
+<g
+   id="LWPOLYLINE_66_"
+   transform="translate(-113.136,-13.925)">
+	<polygon
+   style="fill:#ffffff"
+   points="212.6,133.228 311.811,232.44 311.811,291.968 212.6,192.756 113.386,291.968 113.386,232.44 "
+   id="polygon3985" />
 </g>
-<g id="LWPOLYLINE_67_">
-	<polygon style="fill:#FFFFFF;" points="113.386,172.916 113.386,113.387 212.6,14.175 311.811,113.387 311.811,172.916 
-		212.6,73.699 	"/>
+<g
+   id="LWPOLYLINE_67_"
+   transform="translate(-113.136,-13.925)">
+	<polygon
+   style="fill:#ffffff"
+   points="212.6,14.175 311.811,113.387 311.811,172.916 212.6,73.699 113.386,172.916 113.386,113.387 "
+   id="polygon3988" />
 </g>
-<g id="LWPOLYLINE_68_">
+<g
+   id="LWPOLYLINE_68_"
+   transform="translate(-113.136,-13.925)">
 	
-		<rect x="113.386" y="14.175" style="fill:none;stroke:#005EB8;stroke-width:0.5;stroke-miterlimit:10;" width="198.425" height="396.845"/>
+		<rect
+   x="113.386"
+   y="14.175"
+   style="fill:none;stroke:#005eb8;stroke-width:0.5;stroke-miterlimit:10"
+   width="198.425"
+   height="396.845"
+   id="rect3991" />
 </g>
 </svg>

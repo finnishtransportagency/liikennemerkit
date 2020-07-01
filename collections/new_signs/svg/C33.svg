@@ -1,70 +1,183 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="425.197px" height="425.196px" viewBox="0 0 425.197 425.196" style="enable-background:new 0 0 425.197 425.196;"
-	 xml:space="preserve">
-<g id="CIRCLE_10_">
-	<path style="fill:#FFCD00;" d="M411.023,212.601c0-109.587-88.835-198.426-198.421-198.426
-		c-109.589,0-198.428,88.839-198.428,198.426c0,109.586,88.839,198.421,198.428,198.421
-		C322.188,411.021,411.023,322.187,411.023,212.601L411.023,212.601z"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="396.849"
+   height="396.84698"
+   viewBox="0 0 396.84901 396.84697"
+   xml:space="preserve"
+   sodipodi:docname="C33.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata2038"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs2036" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview2034"
+   showgrid="false"
+   inkscape:zoom="0.55503813"
+   inkscape:cx="198.4245"
+   inkscape:cy="198.42399"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="CIRCLE_10_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#ffcd00"
+   d="m 411.023,212.601 c 0,-109.587 -88.835,-198.426 -198.421,-198.426 -109.589,0 -198.428,88.839 -198.428,198.426 0,109.586 88.839,198.421 198.428,198.421 109.586,-10e-4 198.421,-88.835 198.421,-198.421 z"
+   id="path1985"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_163_">
-	<path style="fill:#8A8D8F;" d="M319.266,143.201c-1.687-2.643-3.616-5.118-5.754-7.404l-19.751,19.751
-		c2.128,2.472,3.725,5.366,4.663,8.491L319.266,143.201z"/>
+<g
+   id="LWPOLYLINE_163_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#8a8d8f"
+   d="m 319.266,143.201 c -1.687,-2.643 -3.616,-5.118 -5.754,-7.404 l -19.751,19.751 c 2.128,2.472 3.725,5.366 4.663,8.491 z"
+   id="path1988"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_164_">
-	<path style="fill:#8A8D8F;" d="M303.97,127.807c-2.741-1.768-5.637-3.274-8.657-4.496l-24.901,24.905
-		c4.212-1.078,8.64-0.947,12.78,0.365L303.97,127.807z"/>
+<g
+   id="LWPOLYLINE_164_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#8a8d8f"
+   d="m 303.97,127.807 c -2.741,-1.768 -5.637,-3.274 -8.657,-4.496 l -24.901,24.905 c 4.212,-1.078 8.64,-0.947 12.78,0.365 z"
+   id="path1991"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_165_">
-	<path style="fill:#8A8D8F;" d="M281.244,119.843c-4.537-0.455-9.118-0.298-13.609,0.46l-41.919,41.919
-		c-0.479,2.813-0.713,5.664-0.713,8.522v5.34L281.244,119.843z"/>
+<g
+   id="LWPOLYLINE_165_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#8a8d8f"
+   d="m 281.244,119.843 c -4.537,-0.455 -9.118,-0.298 -13.609,0.46 l -41.919,41.919 c -0.479,2.813 -0.713,5.664 -0.713,8.522 v 5.34 z"
+   id="path1994"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_166_">
-	<path style="fill:#8A8D8F;" d="M252.907,178.87v-8.126c0-1.938,0.243-3.869,0.722-5.744l-28.626,28.625v13.149L252.907,178.87z"/>
+<g
+   id="LWPOLYLINE_166_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#8a8d8f"
+   d="m 252.907,178.87 v -8.126 c 0,-1.938 0.243,-3.869 0.722,-5.744 l -28.626,28.625 v 13.149 z"
+   id="path1997"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_167_">
-	<polygon style="fill:#8A8D8F;" points="252.907,209.562 252.907,196.407 225.002,224.307 225.002,237.461 	"/>
+<g
+   id="LWPOLYLINE_167_"
+   transform="translate(-14.174,-14.175)">
+	<polygon
+   style="fill:#8a8d8f"
+   points="225.002,224.307 225.002,237.461 252.907,209.562 252.907,196.407 "
+   id="polygon2000" />
 </g>
-<g id="LWPOLYLINE_168_">
-	<path style="fill:#8A8D8F;" d="M327.311,254.456v-83.712c0-5.303-0.82-10.569-2.436-15.62l-25.469,25.465v73.867
-		c0,12.843-10.407,23.251-23.25,23.251s-23.25-10.408-23.25-23.251v-27.362l-27.904,27.903
-		c0.298,28.247,23.439,50.911,51.695,50.613C304.737,305.313,327.311,282.495,327.311,254.456z"/>
+<g
+   id="LWPOLYLINE_168_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#8a8d8f"
+   d="m 327.311,254.456 v -83.712 c 0,-5.303 -0.82,-10.569 -2.436,-15.62 l -25.469,25.465 v 73.867 c 0,12.843 -10.407,23.251 -23.25,23.251 -12.843,0 -23.25,-10.408 -23.25,-23.251 v -27.362 l -27.904,27.903 c 0.298,28.247 23.439,50.911 51.695,50.613 28.04,-0.297 50.614,-23.115 50.614,-51.154 z"
+   id="path2003"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_169_">
-	<polygon style="fill:#8A8D8F;" points="185.32,294.68 174.389,305.61 185.32,305.61 	"/>
+<g
+   id="LWPOLYLINE_169_"
+   transform="translate(-14.174,-14.175)">
+	<polygon
+   style="fill:#8a8d8f"
+   points="185.32,305.61 185.32,294.68 174.389,305.61 "
+   id="polygon2006" />
 </g>
-<g id="LWPOLYLINE_170_">
-	<polygon style="fill:#8A8D8F;" points="185.32,277.147 185.32,268.408 194.059,268.408 200.201,262.267 200.201,249.113 
-		157.417,291.897 157.417,305.051 	"/>
+<g
+   id="LWPOLYLINE_170_"
+   transform="translate(-14.174,-14.175)">
+	<polygon
+   style="fill:#8a8d8f"
+   points="194.059,268.408 200.201,262.267 200.201,249.113 157.417,291.897 157.417,305.051 185.32,277.147 185.32,268.408 "
+   id="polygon2009" />
 </g>
-<g id="LWPOLYLINE_171_">
-	<polygon style="fill:#8A8D8F;" points="191.272,240.504 185.32,240.504 185.32,233.308 150.217,268.408 157.417,268.408 
-		157.417,274.36 	"/>
+<g
+   id="LWPOLYLINE_171_"
+   transform="translate(-14.174,-14.175)">
+	<polygon
+   style="fill:#8a8d8f"
+   points="185.32,233.308 150.217,268.408 157.417,268.408 157.417,274.36 191.272,240.504 185.32,240.504 "
+   id="polygon2012" />
 </g>
-<g id="LWPOLYLINE_172_">
-	<polygon style="fill:#8A8D8F;" points="185.32,215.771 185.32,202.617 157.417,230.521 157.417,240.504 147.435,240.504 
-		119.531,268.408 132.68,268.408 	"/>
+<g
+   id="LWPOLYLINE_172_"
+   transform="translate(-14.174,-14.175)">
+	<polygon
+   style="fill:#8a8d8f"
+   points="157.417,230.521 157.417,240.504 147.435,240.504 119.531,268.408 132.68,268.408 185.32,215.771 185.32,202.617 "
+   id="polygon2015" />
 </g>
-<g id="LWPOLYLINE_173_">
-	<polygon style="fill:#8A8D8F;" points="185.32,119.59 157.417,119.59 88.583,240.504 88.583,268.408 101.994,268.408 
-		129.898,240.504 120.208,240.504 157.417,175.146 157.417,212.988 185.32,185.084 	"/>
+<g
+   id="LWPOLYLINE_173_"
+   transform="translate(-14.174,-14.175)">
+	<polygon
+   style="fill:#8a8d8f"
+   points="88.583,240.504 88.583,268.408 101.994,268.408 129.898,240.504 120.208,240.504 157.417,175.146 157.417,212.988 185.32,185.084 185.32,119.59 157.417,119.59 "
+   id="polygon2018" />
 </g>
-<g id="LWPOLYLINE_174_">
-	<path style="fill:#101820;" d="M349.579,69.04c-2.995-2.858-6.079-5.618-9.245-8.283L60.756,340.332
-		c2.665,3.166,5.429,6.25,8.288,9.249L349.579,69.04z"/>
+<g
+   id="LWPOLYLINE_174_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#101820"
+   d="m 349.579,69.04 c -2.995,-2.858 -6.079,-5.618 -9.245,-8.283 L 60.756,340.332 c 2.665,3.166 5.429,6.25 8.288,9.249 z"
+   id="path2021"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_175_">
-	<path style="fill:#101820;" d="M364.441,84.868c-2.66-3.17-5.429-6.255-8.288-9.249L75.619,356.156
-		c2.994,2.858,6.079,5.623,9.249,8.288L364.441,84.868z"/>
+<g
+   id="LWPOLYLINE_175_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#101820"
+   d="m 364.441,84.868 c -2.66,-3.17 -5.429,-6.255 -8.288,-9.249 L 75.619,356.156 c 2.994,2.858 6.079,5.623 9.249,8.288 z"
+   id="path2024"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_176_">
-	<path style="fill:#101820;" d="M377.608,102.392c-2.326-3.481-4.771-6.895-7.313-10.228L92.168,370.293
-		c3.327,2.548,6.741,4.987,10.227,7.313L377.608,102.392z"/>
+<g
+   id="LWPOLYLINE_176_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#101820"
+   d="m 377.608,102.392 c -2.326,-3.481 -4.771,-6.895 -7.313,-10.228 L 92.168,370.293 c 3.327,2.548 6.741,4.987 10.227,7.313 z"
+   id="path2027"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_177_">
-	<path style="fill:#101820;" d="M333.029,54.903c-3.328-2.543-6.737-4.982-10.218-7.31L47.593,322.805
-		c2.331,3.485,4.767,6.895,7.31,10.228L333.029,54.903z"/>
+<g
+   id="LWPOLYLINE_177_"
+   transform="translate(-14.174,-14.175)">
+	<path
+   style="fill:#101820"
+   d="m 333.029,54.903 c -3.328,-2.543 -6.737,-4.982 -10.218,-7.31 L 47.593,322.805 c 2.331,3.485 4.767,6.895 7.31,10.228 z"
+   id="path2030"
+   inkscape:connector-curvature="0" />
 </g>
 </svg>

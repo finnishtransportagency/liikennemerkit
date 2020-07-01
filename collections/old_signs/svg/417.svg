@@ -1,16 +1,63 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="595px" height="842px" viewBox="0 0 595 842" style="enable-background:new 0 0 595 842;" xml:space="preserve">
-<g>
-	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#007AC2;stroke-width:0.7061;stroke-miterlimit:10;" d="
-		M299.944,136.688c159.192-1.368,262.8,108.072,269.136,260.064c2.736,155.52-103.536,280.08-269.64,278.712
-		C140.32,675.896,32.176,565.448,30.304,403.088C34.912,240.224,145.288,136.688,299.944,136.688z"/>
-	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#0079C1;" d="M299.44,149c138.744,0.432,256.464,109.944,256.896,256.824
-		c0.432,127.728-99.432,255.456-256.896,256.824C159.04,663.08,44.056,549.032,43.12,405.824C43.12,263.48,156.736,149,299.44,149z"
-		/>
-	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="127.504,279.032 175.456,231.584 401.68,457.304 
-		448.192,410.864 447.76,554.072 306.28,552.704 353.728,505.256 	"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="539.53375"
+   height="539.50592"
+   viewBox="0 0 539.53375 539.50592"
+   xml:space="preserve"
+   sodipodi:docname="417.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata157"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs155" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview153"
+   showgrid="false"
+   inkscape:zoom="0.28028504"
+   inkscape:cx="267.54911"
+   inkscape:cy="254.82821"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g150"
+   transform="translate(-29.950892,-136.32228)">
+	<path
+   style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#007ac2;stroke-width:0.70609999;stroke-miterlimit:10"
+   d="M 299.944,136.688 C 459.136,135.32 562.744,244.76 569.08,396.752 571.816,552.272 465.544,676.832 299.44,675.464 140.32,675.896 32.176,565.448 30.304,403.088 c 4.608,-162.864 114.984,-266.4 269.64,-266.4 z"
+   id="path144"
+   inkscape:connector-curvature="0" />
+	<path
+   style="clip-rule:evenodd;fill:#0079c1;fill-rule:evenodd"
+   d="M 299.44,149 C 438.184,149.432 555.904,258.944 556.336,405.824 556.768,533.552 456.904,661.28 299.44,662.648 159.04,663.08 44.056,549.032 43.12,405.824 43.12,263.48 156.736,149 299.44,149 Z"
+   id="path146"
+   inkscape:connector-curvature="0" />
+	<polygon
+   style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+   points="401.68,457.304 448.192,410.864 447.76,554.072 306.28,552.704 353.728,505.256 127.504,279.032 175.456,231.584 "
+   id="polygon148" />
 </g>
 </svg>

@@ -1,24 +1,83 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="425.197px" height="425.196px" viewBox="0 0 425.197 425.196" style="enable-background:new 0 0 425.197 425.196;"
-	 xml:space="preserve">
-<g id="LWPOLYLINE_16_">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="198.927"
+   height="397.349"
+   viewBox="0 0 198.92701 397.34899"
+   xml:space="preserve"
+   sodipodi:docname="E14.1.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata474"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs472" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview470"
+   showgrid="false"
+   inkscape:zoom="0.55503813"
+   inkscape:cx="99.463493"
+   inkscape:cy="198.67499"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="LWPOLYLINE_16_"
+   transform="translate(-113.135,-13.924)">
 	
-		<rect x="113.385" y="14.174" style="fill:#005EB8;stroke:#005EB8;stroke-width:0.5;stroke-miterlimit:10;" width="198.427" height="396.849"/>
+		<rect
+   x="113.385"
+   y="14.174"
+   style="fill:#005eb8;stroke:#005eb8;stroke-width:0.5;stroke-miterlimit:10"
+   width="198.427"
+   height="396.849"
+   id="rect457" />
 </g>
-<g id="LWPOLYLINE_18_">
-	<path style="fill:#FFFFFF;" d="M311.812,391.182V34.018c0-10.96-8.889-19.844-19.849-19.844H133.226
-		c-10.96,0-19.841,8.884-19.841,19.844v357.164c0,10.96,8.881,19.841,19.841,19.841h158.737
-		C302.923,411.022,311.812,402.142,311.812,391.182z"/>
+<g
+   id="LWPOLYLINE_18_"
+   transform="translate(-113.135,-13.924)">
+	<path
+   style="fill:#ffffff"
+   d="M 311.812,391.182 V 34.018 c 0,-10.96 -8.889,-19.844 -19.849,-19.844 H 133.226 c -10.96,0 -19.841,8.884 -19.841,19.844 v 357.164 c 0,10.96 8.881,19.841 19.841,19.841 h 158.737 c 10.96,-0.001 19.849,-8.881 19.849,-19.841 z"
+   id="path460"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_17_">
-	<path style="fill:#005EB8;" d="M301.891,391.182V34.018c0-5.48-4.444-9.921-9.928-9.921H133.226c-5.477,0-9.921,4.44-9.921,9.921
-		v357.164c0,5.479,4.444,9.921,9.921,9.921h158.737C297.447,401.103,301.891,396.661,301.891,391.182z"/>
+<g
+   id="LWPOLYLINE_17_"
+   transform="translate(-113.135,-13.924)">
+	<path
+   style="fill:#005eb8"
+   d="M 301.891,391.182 V 34.018 c 0,-5.48 -4.444,-9.921 -9.928,-9.921 H 133.226 c -5.477,0 -9.921,4.44 -9.921,9.921 v 357.164 c 0,5.479 4.444,9.921 9.921,9.921 h 158.737 c 5.484,0 9.928,-4.442 9.928,-9.921 z"
+   id="path463"
+   inkscape:connector-curvature="0" />
 </g>
-<g id="LWPOLYLINE_19_">
-	<polygon style="fill:#FFFFFF;" points="232.44,378.779 232.44,115.37 282.042,164.975 282.042,115.868 212.598,46.42 
-		143.147,115.868 143.147,164.975 192.757,115.37 192.757,378.779 	"/>
+<g
+   id="LWPOLYLINE_19_"
+   transform="translate(-113.135,-13.924)">
+	<polygon
+   style="fill:#ffffff"
+   points="282.042,164.975 282.042,115.868 212.598,46.42 143.147,115.868 143.147,164.975 192.757,115.37 192.757,378.779 232.44,378.779 232.44,115.37 "
+   id="polygon466" />
 </g>
 </svg>

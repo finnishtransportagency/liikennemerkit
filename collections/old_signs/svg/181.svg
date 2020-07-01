@@ -1,35 +1,92 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="595px"
-	 height="842px" viewBox="0 0 595 842" style="enable-background:new 0 0 595 842;" xml:space="preserve">
-<g id="Kuvataso_1">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="538.30487"
+   height="473.40295"
+   viewBox="0 0 538.30487 473.40295"
+   xml:space="preserve"
+   id="svg839"
+   sodipodi:docname="181.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata845"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs843" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview841"
+   showgrid="false"
+   inkscape:zoom="0.28028504"
+   inkscape:cx="266.75179"
+   inkscape:cy="205"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg839" />
+<g
+   id="Kuvataso_1"
+   transform="translate(-30.748209,-152.59703)">
 </g>
-<g id="_x30_">
+<g
+   id="_x30_"
+   transform="translate(-30.748209,-152.59703)">
 </g>
-<g id="H4">
+<g
+   id="H4"
+   transform="translate(-30.748209,-152.59703)">
 </g>
-<g id="H5">
+<g
+   id="H5"
+   transform="translate(-30.748209,-152.59703)">
 </g>
-<g id="_x33_">
-	<g>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFD200;" d="M46.792,626h504.432c14.472-2.232,20.232-11.016,16.92-26.496
-			l-249.12-436.176c-9.432-8.208-18.504-18.936-38.376-0.864L31.528,595.4C29.224,609.296,31.384,621.968,46.792,626z"/>
-		<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#EF3E42;" d="M299.368,578.84H502.84L299.368,226.472v-66.528
-			c5.256-0.216,10.512,2.376,14.256,7.488c82.656,143.136,164.448,288.216,247.104,431.28c4.824,12.816-1.512,20.232-10.728,20.664
-			l-250.632,0.432V578.84z M95.968,578.84h203.4v40.968l-249.624,0.36c-8.568-3.24-12.672-7.92-12.888-14.544v-1.296
-			c0.072-1.8,0.36-3.6,0.864-5.616l247.896-429.624c3.6-6.048,8.712-9,13.752-9.144v66.528l-0.144-0.36L95.968,578.84z"/>
-		<g>
-			<polygon style="fill-rule:evenodd;clip-rule:evenodd;stroke:#000000;stroke-width:0.216;stroke-miterlimit:10;" points="
-				315.712,358.808 315.856,358.664 326.44,348.656 351.208,354.848 350.128,370.904 365.176,388.616 346.96,416.264 
-				313.552,407.696 314.056,393.368 303.04,376.304 315.208,362.552 			"/>
-			<polygon style="fill-rule:evenodd;clip-rule:evenodd;stroke:#000000;stroke-width:0.216;stroke-miterlimit:10;" points="
-				262.936,470.984 295.192,452.984 314.776,473.936 312.616,503.024 292.456,516.488 280.072,510.656 263.008,514.616 
-				255.736,499.496 263.296,490.208 			"/>
-			<polygon style="fill-rule:evenodd;clip-rule:evenodd;stroke:#000000;stroke-width:0.216;stroke-miterlimit:10;" points="
-				174.592,529.016 196.264,519.872 207.064,530.672 220.384,529.808 227.08,551.912 220.024,565.232 324.496,565.232 
-				328.24,545.864 334.504,533.984 340.768,505.256 344.512,479.84 350.344,465.656 356.176,439.016 364.96,418.208 365.752,389.12 
-				371.152,379.904 376.12,359.168 502.12,578.048 94.024,578.408 101.872,565.232 184.888,565.232 171.28,552.056 			"/>
+<g
+   id="_x33_"
+   transform="translate(-30.748209,-152.59703)">
+	<g
+   id="g836">
+		<path
+   style="clip-rule:evenodd;fill:#ffd200;fill-rule:evenodd"
+   d="m 46.792,626 h 504.432 c 14.472,-2.232 20.232,-11.016 16.92,-26.496 L 319.024,163.328 c -9.432,-8.208 -18.504,-18.936 -38.376,-0.864 L 31.528,595.4 c -2.304,13.896 -0.144,26.568 15.264,30.6 z"
+   id="path824"
+   inkscape:connector-curvature="0" />
+		<path
+   style="clip-rule:evenodd;fill:#ef3e42;fill-rule:evenodd"
+   d="M 299.368,578.84 H 502.84 L 299.368,226.472 v -66.528 c 5.256,-0.216 10.512,2.376 14.256,7.488 82.656,143.136 164.448,288.216 247.104,431.28 4.824,12.816 -1.512,20.232 -10.728,20.664 l -250.632,0.432 V 578.84 Z m -203.4,0 h 203.4 v 40.968 l -249.624,0.36 c -8.568,-3.24 -12.672,-7.92 -12.888,-14.544 v -1.296 c 0.072,-1.8 0.36,-3.6 0.864,-5.616 L 285.616,169.088 c 3.6,-6.048 8.712,-9 13.752,-9.144 v 66.528 l -0.144,-0.36 z"
+   id="path826"
+   inkscape:connector-curvature="0" />
+		<g
+   id="g834">
+			<polygon
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#000000;stroke-width:0.21600001;stroke-miterlimit:10"
+   points="326.44,348.656 351.208,354.848 350.128,370.904 365.176,388.616 346.96,416.264 313.552,407.696 314.056,393.368 303.04,376.304 315.208,362.552 315.712,358.808 315.856,358.664 "
+   id="polygon828" />
+			<polygon
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#000000;stroke-width:0.21600001;stroke-miterlimit:10"
+   points="314.776,473.936 312.616,503.024 292.456,516.488 280.072,510.656 263.008,514.616 255.736,499.496 263.296,490.208 262.936,470.984 295.192,452.984 "
+   id="polygon830" />
+			<polygon
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke:#000000;stroke-width:0.21600001;stroke-miterlimit:10"
+   points="207.064,530.672 220.384,529.808 227.08,551.912 220.024,565.232 324.496,565.232 328.24,545.864 334.504,533.984 340.768,505.256 344.512,479.84 350.344,465.656 356.176,439.016 364.96,418.208 365.752,389.12 371.152,379.904 376.12,359.168 502.12,578.048 94.024,578.408 101.872,565.232 184.888,565.232 171.28,552.056 174.592,529.016 196.264,519.872 "
+   id="polygon832" />
 		</g>
 	</g>
 </g>

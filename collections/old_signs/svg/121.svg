@@ -1,19 +1,74 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="595px" height="842px" viewBox="0 0 595 842" style="enable-background:new 0 0 595 842;" xml:space="preserve">
-<g>
-	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFD200;" d="M511.84,682.88c17.28-0.864,25.416-17.712,18.144-31.536
-		L296.128,246.2c-9.072-14.616-27.576-12.888-36.216,0L25.984,651.344c-6.84,12.528,0,28.944,15.552,31.104L511.84,682.88z"/>
-	<path style="fill-rule:evenodd;clip-rule:evenodd;fill:#EF3E42;" d="M512.272,676.832c12.096-0.864,18.144-13.392,12.528-22.896
-		L291.376,249.224c-5.616-9.504-19.8-10.368-26.28,0L31.168,653.936c-5.616,9.504,1.296,22.896,13.392,22.896H512.272z"/>
-	<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFD200;" points="470.368,637.52 277.984,304.88 85.96,637.52 	"/>
-	<g>
-		<polygon style="fill-rule:evenodd;clip-rule:evenodd;" points="194.32,628.88 236.152,628.88 236.152,553.856 266.392,518.432 
-			266.392,418.856 224.056,418.856 224.056,502.448 194.32,538.736 		"/>
-		<polygon style="fill-rule:evenodd;clip-rule:evenodd;" points="320.248,628.88 320.248,553.856 290.08,518.432 290.08,418.856 
-			332.344,418.856 332.344,502.448 362.08,538.736 362.08,628.88 		"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="509.3114"
+   height="447.00415"
+   viewBox="0 0 509.3114 447.00415"
+   xml:space="preserve"
+   sodipodi:docname="121.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata133"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs131" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview129"
+   showgrid="false"
+   inkscape:zoom="0.28028504"
+   inkscape:cx="274.16445"
+   inkscape:cy="261.88"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g126"
+   transform="translate(-23.335552,-235.87584)">
+	<path
+   style="clip-rule:evenodd;fill:#ffd200;fill-rule:evenodd"
+   d="m 511.84,682.88 c 17.28,-0.864 25.416,-17.712 18.144,-31.536 L 296.128,246.2 c -9.072,-14.616 -27.576,-12.888 -36.216,0 L 25.984,651.344 c -6.84,12.528 0,28.944 15.552,31.104 z"
+   id="path114"
+   inkscape:connector-curvature="0" />
+	<path
+   style="clip-rule:evenodd;fill:#ef3e42;fill-rule:evenodd"
+   d="m 512.272,676.832 c 12.096,-0.864 18.144,-13.392 12.528,-22.896 L 291.376,249.224 c -5.616,-9.504 -19.8,-10.368 -26.28,0 L 31.168,653.936 c -5.616,9.504 1.296,22.896 13.392,22.896 z"
+   id="path116"
+   inkscape:connector-curvature="0" />
+	<polygon
+   style="clip-rule:evenodd;fill:#ffd200;fill-rule:evenodd"
+   points="85.96,637.52 470.368,637.52 277.984,304.88 "
+   id="polygon118" />
+	<g
+   id="g124">
+		<polygon
+   style="clip-rule:evenodd;fill-rule:evenodd"
+   points="236.152,553.856 266.392,518.432 266.392,418.856 224.056,418.856 224.056,502.448 194.32,538.736 194.32,628.88 236.152,628.88 "
+   id="polygon120" />
+		<polygon
+   style="clip-rule:evenodd;fill-rule:evenodd"
+   points="290.08,518.432 290.08,418.856 332.344,418.856 332.344,502.448 362.08,538.736 362.08,628.88 320.248,628.88 320.248,553.856 "
+   id="polygon122" />
 	</g>
 </g>
 </svg>

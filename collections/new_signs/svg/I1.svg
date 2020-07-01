@@ -1,46 +1,188 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="425.197px" height="425.196px" viewBox="0 0 425.197 425.196" style="enable-background:new 0 0 425.197 425.196;"
-	 xml:space="preserve">
-<g id="LWPOLYLINE_118_">
-	<rect x="37.794" y="146.458" style="fill:#8A8D8F;" width="9.45" height="146.458"/>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="396.85202"
+   height="188.97301"
+   viewBox="0 0 396.85203 188.973"
+   xml:space="preserve"
+   sodipodi:docname="I1.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata3977"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs3975" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview3973"
+   showgrid="false"
+   inkscape:zoom="0.55503813"
+   inkscape:cx="198.4265"
+   inkscape:cy="94.487001"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="LWPOLYLINE_118_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="37.793999"
+   y="146.45799"
+   style="fill:#8a8d8f"
+   width="9.4499998"
+   height="146.45799"
+   id="rect3933" />
 </g>
-<g id="LWPOLYLINE_120_">
-	<rect x="377.956" y="146.458" style="fill:#8A8D8F;" width="9.446" height="146.458"/>
+<g
+   id="LWPOLYLINE_120_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="377.95599"
+   y="146.45799"
+   style="fill:#8a8d8f"
+   width="9.4460001"
+   height="146.45799"
+   id="rect3936" />
 </g>
-<g id="LWPOLYLINE_121_">
-	<rect x="18.899" y="201.259" style="fill:#8A8D8F;" width="387.402" height="13.229"/>
+<g
+   id="LWPOLYLINE_121_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="18.899"
+   y="201.259"
+   style="fill:#8a8d8f"
+   width="387.40201"
+   height="13.229"
+   id="rect3939" />
 </g>
-<g id="LWPOLYLINE_122_">
-	<rect x="18.899" y="269.292" style="fill:#8A8D8F;" width="387.402" height="13.227"/>
+<g
+   id="LWPOLYLINE_122_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="18.899"
+   y="269.29199"
+   style="fill:#8a8d8f"
+   width="387.40201"
+   height="13.227"
+   id="rect3942" />
 </g>
-<g id="LWPOLYLINE_117_">
-	<rect x="18.899" y="292.915" style="fill:#101820;" width="47.244" height="14.17"/>
+<g
+   id="LWPOLYLINE_117_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="18.899"
+   y="292.91501"
+   style="fill:#101820"
+   width="47.243999"
+   height="14.17"
+   id="rect3945" />
 </g>
-<g id="LWPOLYLINE_119_">
-	<rect x="359.057" y="292.915" style="fill:#101820;" width="47.244" height="14.17"/>
+<g
+   id="LWPOLYLINE_119_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="359.05701"
+   y="292.91501"
+   style="fill:#101820"
+   width="47.243999"
+   height="14.17"
+   id="rect3948" />
 </g>
-<g id="LWPOLYLINE_110_">
-	<rect x="14.172" y="118.112" style="fill:#E4002B;" width="56.694" height="28.346"/>
+<g
+   id="LWPOLYLINE_110_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="14.172"
+   y="118.112"
+   style="fill:#e4002b"
+   width="56.694"
+   height="28.346001"
+   id="rect3951" />
 </g>
-<g id="LWPOLYLINE_112_">
-	<rect x="127.558" y="118.112" style="fill:#E4002B;" width="56.695" height="28.346"/>
+<g
+   id="LWPOLYLINE_112_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="127.558"
+   y="118.112"
+   style="fill:#e4002b"
+   width="56.695"
+   height="28.346001"
+   id="rect3954" />
 </g>
-<g id="LWPOLYLINE_114_">
-	<rect x="240.945" y="118.112" style="fill:#E4002B;" width="56.691" height="28.346"/>
+<g
+   id="LWPOLYLINE_114_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="240.94501"
+   y="118.112"
+   style="fill:#e4002b"
+   width="56.691002"
+   height="28.346001"
+   id="rect3957" />
 </g>
-<g id="LWPOLYLINE_116_">
-	<rect x="354.333" y="118.112" style="fill:#E4002B;" width="56.691" height="28.346"/>
+<g
+   id="LWPOLYLINE_116_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="354.33301"
+   y="118.112"
+   style="fill:#e4002b"
+   width="56.691002"
+   height="28.346001"
+   id="rect3960" />
 </g>
-<g id="LWPOLYLINE_111_">
-	<rect x="70.867" y="118.112" style="fill:#E3E829;" width="56.691" height="28.346"/>
+<g
+   id="LWPOLYLINE_111_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="70.866997"
+   y="118.112"
+   style="fill:#e3e829"
+   width="56.691002"
+   height="28.346001"
+   id="rect3963" />
 </g>
-<g id="LWPOLYLINE_113_">
-	<rect x="184.253" y="118.112" style="fill:#E3E829;" width="56.691" height="28.346"/>
+<g
+   id="LWPOLYLINE_113_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="184.25301"
+   y="118.112"
+   style="fill:#e3e829"
+   width="56.691002"
+   height="28.346001"
+   id="rect3966" />
 </g>
-<g id="LWPOLYLINE_115_">
-	<rect x="297.636" y="118.112" style="fill:#E3E829;" width="56.697" height="28.346"/>
+<g
+   id="LWPOLYLINE_115_"
+   transform="translate(-14.172,-118.112)">
+	<rect
+   x="297.63599"
+   y="118.112"
+   style="fill:#e3e829"
+   width="56.696999"
+   height="28.346001"
+   id="rect3969" />
 </g>
 </svg>

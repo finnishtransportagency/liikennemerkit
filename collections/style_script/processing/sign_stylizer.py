@@ -21,6 +21,7 @@ from qgis.core import (QgsProcessing,
                        QgsProcessingParameterField,
                        QgsProcessingParameterVectorLayer,
                        QgsProcessingParameterEnum,
+                       QgsProcessingParameterBoolean,
                        QgsApplication,
                        QgsSymbolLayer,
                        QgsProperty,
@@ -40,6 +41,7 @@ class SignStylizer(QgsProcessingAlgorithm):
     SIGN_CODE_FIELD = 'sign_code_field'
     SPEED_LIMIT_FIELD = 'speed_limit_field'
     OLD_OR_NEW = "old_or_new"
+    MODIFY_SIZE = 'modify_size'
 
     def tr(self, string):
         """
@@ -92,7 +94,7 @@ class SignStylizer(QgsProcessingAlgorithm):
         """
         return self.tr("Takes point data layer with Finnish traffic sign codes as input"+
                         " and visualizes each point with the equivalent sign SVG."+
-                        " Also determines image size based on map scale.")
+                        " Optionally adjusts image size based on map scale.")
 
     def initAlgorithm(self, config=None):
         """
@@ -134,6 +136,12 @@ class SignStylizer(QgsProcessingAlgorithm):
         speed_parameter.setFlags(QgsProcessingParameterField.FlagOptional)
         
         self.addParameter(speed_parameter)
+        
+        self.addParameter(
+        QgsProcessingParameterBoolean(
+                self.MODIFY_SIZE,
+                "Muokkaa myös kuvien kokoa, siten että ne skaalautuvat mittakaavan mukaan:",
+                True))
 
         # We add a feature sink in which to store our processed features (this
         # usually takes the form of a newly created vector layer when the
@@ -173,6 +181,11 @@ class SignStylizer(QgsProcessingAlgorithm):
         old_or_new_selection = self.parameterAsString(
                         parameters,
                         self.OLD_OR_NEW,
+                        context)
+                        
+        size_selection = self.parameterAsBool(
+                        parameters,
+                        self.MODIFY_SIZE,
                         context)
         
         # read user selection on whether to use old or new signs
@@ -216,9 +229,9 @@ class SignStylizer(QgsProcessingAlgorithm):
         " ELSE concat(\'{0}\', char(39), {3}, \"{1}\", \'.svg\') END").format(resource_path, value_field, speed_field, path2)
         else:
             path_exp = "concat(\'{0}\', char(39), {2}, \"{1}\", \'.svg\')".format(resource_path, value_field, path2)
-        size_exp = ("CASE WHEN @map_scale < 10000 THEN 11 WHEN @map_scale < 50000 THEN 8" + 
-                    " WHEN @map_scale < 100000 THEN 7 WHEN @map_scale < 150000 THEN 6 WHEN @map_scale < 500000"+ 
-                    " THEN 4 ELSE 3 END")
+        size_exp = ("CASE WHEN @map_scale < 10000 THEN 9 WHEN @map_scale < 50000 THEN 6" + 
+                    " WHEN @map_scale < 100000 THEN 5 WHEN @map_scale < 150000 THEN 4.5 WHEN @map_scale < 500000"+ 
+                    " THEN 3.5 ELSE 3 END")
         
         # taking a version of the renderer, which houses the symbol layers
         rend = input_layer.renderer().clone()
@@ -227,8 +240,9 @@ class SignStylizer(QgsProcessingAlgorithm):
         # defining the image path expression
         rend.symbol().symbolLayer(0).setDataDefinedProperty(QgsSymbolLayer.PropertyName, 
         QgsProperty.fromExpression(path_exp))
-        rend.symbol().symbolLayer(0).setDataDefinedProperty(
-        QgsSymbolLayer.PropertySize, QgsProperty.fromExpression(size_exp) )
+        if size_selection:
+            rend.symbol().symbolLayer(0).setDataDefinedProperty(
+            QgsSymbolLayer.PropertySize, QgsProperty.fromExpression(size_exp) )
         
         # setting the new renderer to layer
         input_layer.setRenderer(rend)

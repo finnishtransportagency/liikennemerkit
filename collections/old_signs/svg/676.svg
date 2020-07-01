@@ -1,39 +1,106 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="595px"
-	 height="842px" viewBox="0 0 595 842" style="enable-background:new 0 0 595 842;" xml:space="preserve">
-<g id="Kuvataso_1">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="129.2276"
+   height="129.29919"
+   viewBox="0 0 129.2276 129.29919"
+   xml:space="preserve"
+   id="svg2738"
+   sodipodi:docname="676.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"><metadata
+   id="metadata2744"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs2742" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="640"
+   inkscape:window-height="480"
+   id="namedview2740"
+   showgrid="false"
+   inkscape:zoom="0.28028504"
+   inkscape:cx="116.4936"
+   inkscape:cy="53.7936"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg2738" />
+<g
+   id="Kuvataso_1"
+   transform="translate(-181.0064,-345.4944)">
 </g>
-<g id="_x30_">
+<g
+   id="_x30_"
+   transform="translate(-181.0064,-345.4944)">
 </g>
-<g id="HATSIN">
-	<g>
+<g
+   id="HATSIN"
+   transform="translate(-181.0064,-345.4944)">
+	<g
+   id="g2735">
 		
-			<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0079C1;stroke:#0079C1;stroke-width:0.7072;stroke-miterlimit:10;" points="
-			181.36,345.848 309.736,345.848 309.88,474.44 181.36,474.44 		"/>
-		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="181.36,355.424 181.864,353.264 183.376,350.312 
-			184.888,348.584 187.696,346.712 192.088,345.848 299.152,345.848 302.464,346.352 304.552,347.216 306.352,348.584 
-			307.792,350.312 309.016,352.112 309.88,355.424 309.88,464.792 309.304,467.024 307.792,469.904 306.352,471.704 304.552,473 
-			301.384,474.152 299.152,474.44 192.088,474.44 188.704,473.864 185.752,472.352 183.376,469.904 181.864,467.024 181.36,464.792 
-					"/>
-		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#0079C1;" points="186.76,356.648 186.976,354.848 187.696,353.48 
-			188.92,352.256 191.224,351.248 298.576,351.176 300.808,351.464 302.32,352.256 303.544,353.48 304.408,355.712 304.408,464.504 
-			303.976,466.16 302.32,467.96 300.808,468.752 299.152,469.04 191.224,468.968 189.568,468.392 187.696,466.88 186.976,465.368 
-			186.76,464.504 		"/>
-		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="202.888,452.912 288.568,452.912 286.408,388.76 
-			282.592,388.76 280,435.848 254.368,418.784 253.432,435.848 228.592,419.36 227.656,435.272 202.888,418.712 		"/>
-		<rect x="207.136" y="440.528" style="fill-rule:evenodd;clip-rule:evenodd;fill:#0079C1;" width="16.776" height="8.136"/>
-		<rect x="232.624" y="440.528" style="fill-rule:evenodd;clip-rule:evenodd;fill:#0079C1;" width="16.776" height="8.136"/>
-		<rect x="258.544" y="440.528" style="fill-rule:evenodd;clip-rule:evenodd;fill:#0079C1;" width="16.776" height="8.136"/>
-		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="228.376,371.408 230.104,373.856 232.264,375.8 
-			234.784,377.528 238.816,379.4 243.28,380.264 246.088,380.048 250.264,379.184 253.504,377.888 256.528,376.088 254.584,372.2 
-			251.992,373.928 247.816,375.44 244.936,375.872 242.056,375.8 238.168,374.504 235.72,373.064 233.56,371.192 231.832,369.032 		
-			"/>
-		<polygon style="fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;" points="260.344,373.928 263.872,372.632 267.688,371.84 
-			269.488,371.624 272.656,371.624 276.256,372.632 279.208,374.792 280.72,376.736 282.016,380.12 286.408,380.12 285.616,376.88 
-			284.032,373.928 281.368,370.904 277.912,368.672 274.096,367.52 269.488,367.376 265.816,367.808 262.144,368.672 
-			258.544,370.04 		"/>
+			<polygon
+   style="clip-rule:evenodd;fill:#0079c1;fill-rule:evenodd;stroke:#0079c1;stroke-width:0.70719999;stroke-miterlimit:10"
+   points="309.88,474.44 181.36,474.44 181.36,345.848 309.736,345.848 "
+   id="polygon2717" />
+		<polygon
+   style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+   points="183.376,350.312 184.888,348.584 187.696,346.712 192.088,345.848 299.152,345.848 302.464,346.352 304.552,347.216 306.352,348.584 307.792,350.312 309.016,352.112 309.88,355.424 309.88,464.792 309.304,467.024 307.792,469.904 306.352,471.704 304.552,473 301.384,474.152 299.152,474.44 192.088,474.44 188.704,473.864 185.752,472.352 183.376,469.904 181.864,467.024 181.36,464.792 181.36,355.424 181.864,353.264 "
+   id="polygon2719" />
+		<polygon
+   style="clip-rule:evenodd;fill:#0079c1;fill-rule:evenodd"
+   points="187.696,353.48 188.92,352.256 191.224,351.248 298.576,351.176 300.808,351.464 302.32,352.256 303.544,353.48 304.408,355.712 304.408,464.504 303.976,466.16 302.32,467.96 300.808,468.752 299.152,469.04 191.224,468.968 189.568,468.392 187.696,466.88 186.976,465.368 186.76,464.504 186.76,356.648 186.976,354.848 "
+   id="polygon2721" />
+		<polygon
+   style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+   points="286.408,388.76 282.592,388.76 280,435.848 254.368,418.784 253.432,435.848 228.592,419.36 227.656,435.272 202.888,418.712 202.888,452.912 288.568,452.912 "
+   id="polygon2723" />
+		<rect
+   x="207.136"
+   y="440.52802"
+   style="clip-rule:evenodd;fill:#0079c1;fill-rule:evenodd"
+   width="16.775999"
+   height="8.1359997"
+   id="rect2725" />
+		<rect
+   x="232.62399"
+   y="440.52802"
+   style="clip-rule:evenodd;fill:#0079c1;fill-rule:evenodd"
+   width="16.775999"
+   height="8.1359997"
+   id="rect2727" />
+		<rect
+   x="258.54401"
+   y="440.52802"
+   style="clip-rule:evenodd;fill:#0079c1;fill-rule:evenodd"
+   width="16.775999"
+   height="8.1359997"
+   id="rect2729" />
+		<polygon
+   style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+   points="232.264,375.8 234.784,377.528 238.816,379.4 243.28,380.264 246.088,380.048 250.264,379.184 253.504,377.888 256.528,376.088 254.584,372.2 251.992,373.928 247.816,375.44 244.936,375.872 242.056,375.8 238.168,374.504 235.72,373.064 233.56,371.192 231.832,369.032 228.376,371.408 230.104,373.856 "
+   id="polygon2731" />
+		<polygon
+   style="clip-rule:evenodd;fill:#ffffff;fill-rule:evenodd"
+   points="267.688,371.84 269.488,371.624 272.656,371.624 276.256,372.632 279.208,374.792 280.72,376.736 282.016,380.12 286.408,380.12 285.616,376.88 284.032,373.928 281.368,370.904 277.912,368.672 274.096,367.52 269.488,367.376 265.816,367.808 262.144,368.672 258.544,370.04 260.344,373.928 263.872,372.632 "
+   id="polygon2733" />
 	</g>
 </g>
 </svg>
