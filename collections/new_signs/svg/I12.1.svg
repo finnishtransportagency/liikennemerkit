@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="I12.1_Reunapaalu.svg"
+   xml:space="preserve"
+   viewBox="0 0 33.521004 397.84676"
+   height="397.84677"
+   width="33.521004"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata31"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs29" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="73"
+   inkscape:window-x="-8"
+   inkscape:cy="198.92279"
+   inkscape:cx="16.760498"
+   inkscape:zoom="1.999078"
+   showgrid="false"
+   id="namedview27"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<g
+   transform="translate(-195.838,-13.675219)"
+   id="LWPOLYLINE_66_">
+	
+		<rect
+   id="rect2"
+   height="97.561996"
+   width="32.521"
+   style="fill:#101820;stroke:#101820;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   y="53.287998"
+   x="196.338" />
+</g>
+<g
+   transform="translate(-195.838,-13.675219)"
+   id="CIRCLE">
+	
+		<path
+   id="path5"
+   d="m 222.554,75.97 c 0,-5.389 -4.374,-9.755 -9.763,-9.755 -5.389,0 -9.755,4.367 -9.755,9.755 0,5.388 4.366,9.759 9.755,9.759 5.389,0 9.763,-4.37 9.763,-9.759 z"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+</g>
+<g
+   transform="translate(-195.838,-13.675219)"
+   id="CIRCLE_1_">
+	
+		<path
+   id="path8"
+   d="m 222.554,128.085 c 0,-5.389 -4.374,-9.755 -9.763,-9.755 -5.389,0 -9.755,4.367 -9.755,9.755 0,5.388 4.366,9.755 9.755,9.755 5.389,0 9.763,-4.366 9.763,-9.755 z"
+   style="fill:#ffffff;stroke:#000000;stroke-width:0.7087;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+</g>
+<g
+   transform="translate(-195.838,-13.675219)"
+   id="LWPOLYLINE_65_">
+	
+		<rect
+   id="rect11"
+   height="97.561996"
+   width="32.521"
+   style="fill:none;stroke:#101820;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   y="53.287998"
+   x="196.338" />
+</g>
+<g
+   transform="translate(-195.838,-13.675219)"
+   id="LWPOLYLINE_67_">
+	<path
+   id="path14"
+   d="M 196.338,53.288 V 18.914 c 9.922,-6.319 22.606,-6.319 32.521,0 v 34.375 h -32.521 z"
+   style="fill:none;stroke:#101820;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+</g>
+<g
+   transform="translate(-195.838,-13.675219)"
+   id="LWPOLYLINE_69_">
+	
+		<rect
+   id="rect17"
+   height="260.172"
+   width="32.521"
+   style="fill:none;stroke:#101820;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   y="150.85001"
+   x="196.338" />
+</g>
+<g
+   transform="translate(-195.838,-13.675219)"
+   id="LWPOLYLINE_68_">
+	<path
+   id="path20"
+   d="M 196.338,53.288 V 18.914 c 9.922,-6.319 22.606,-6.319 32.521,0 v 34.375 h -32.521 z"
+   style="fill:#ffffff;stroke:#101820;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+</g>
+<g
+   transform="translate(-195.838,-13.675219)"
+   id="LWPOLYLINE_70_">
+	
+		<rect
+   id="rect23"
+   height="260.172"
+   width="32.521"
+   style="fill:#ffffff;stroke:#101820;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   y="150.85001"
+   x="196.338" />
+</g>
+</svg>

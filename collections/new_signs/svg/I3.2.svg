@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="I3.2_Sulkupylväs.svg"
+   xml:space="preserve"
+   viewBox="0 0 205.146 396.84798"
+   height="396.84799"
+   width="205.146"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata25"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs23" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="73"
+   inkscape:window-x="-8"
+   inkscape:cy="198.42401"
+   inkscape:cx="102.5735"
+   inkscape:zoom="1.999078"
+   fit-margin-bottom="0"
+   fit-margin-right="0"
+   fit-margin-left="0"
+   fit-margin-top="0"
+   showgrid="false"
+   id="namedview21"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<g
+   transform="translate(-110.025,-14.174)"
+   id="LWPOLYLINE_73_">
+	<polygon
+   id="polygon2"
+   points="175.968,343.862 175.968,252.282 249.228,197.333 249.228,288.917 "
+   style="fill:#e3e829" />
+</g>
+<g
+   transform="translate(-110.025,-14.174)"
+   id="LWPOLYLINE_76_">
+	<polygon
+   id="polygon5"
+   points="175.968,160.704 175.968,69.124 249.228,14.174 249.228,105.754 "
+   style="fill:#e3e829" />
+</g>
+<g
+   transform="translate(-110.025,-14.174)"
+   id="LWPOLYLINE_72_">
+	<polygon
+   id="polygon8"
+   points="110.025,398.812 110.025,411.022 315.171,411.022 315.171,398.812 271.207,380.497 249.228,380.497 175.968,380.497 153.981,380.497 "
+   style="fill:#8a8d8f" />
+</g>
+<g
+   transform="translate(-110.025,-14.174)"
+   id="LWPOLYLINE_74_">
+	<polygon
+   id="polygon11"
+   points="175.968,380.497 175.968,343.862 249.228,288.917 249.228,380.497 "
+   style="fill:#e4002b" />
+</g>
+<g
+   transform="translate(-110.025,-14.174)"
+   id="LWPOLYLINE_75_">
+	<polygon
+   id="polygon14"
+   points="175.968,252.282 175.968,160.704 249.228,105.754 249.228,197.333 "
+   style="fill:#e4002b" />
+</g>
+<g
+   transform="translate(-110.025,-14.174)"
+   id="LWPOLYLINE_77_">
+	<polygon
+   id="polygon17"
+   points="175.968,14.174 249.228,14.174 175.968,69.124 "
+   style="fill:#e4002b" />
+</g>
+</svg>
