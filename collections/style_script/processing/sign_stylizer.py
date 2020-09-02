@@ -122,8 +122,8 @@ class SignStylizer(QgsProcessingAlgorithm):
         self.addParameter(
         QgsProcessingParameterField(
                 self.SIGN_CODE_FIELD,
-                'Valitse sarake, jossa merkkikoodit ovat. Nämä ovat: \n-Digiroad: TYYPPI \n'+
-                '-Tierekisteri (Vanhat merkit): S_ASETUSNR \n-Tierekisteri (Uudet merkit): S_UUSIASNR',
+                'Valitse sarake, jossa merkkikoodit ovat. Esimerkiksi: \n-Digiroad (vanhat merkit): VANHAKOODI \n-Digiroad: TYYPPI\n'+
+                '-Tierekisteri (Vanhat): S_ASETUSNR\n-Tierekisteri: S_UUSIASNR',
                 '',
                 self.INPUT))
         
@@ -140,7 +140,7 @@ class SignStylizer(QgsProcessingAlgorithm):
         self.addParameter(
         QgsProcessingParameterBoolean(
                 self.MODIFY_SIZE,
-                "Muokkaa myös kuvien kokoa, siten että ne skaalautuvat mittakaavan mukaan:",
+                "Muokkaa myös kuvien kokoa, siten että ne skaalautuvat mittakaavan mukaan",
                 True))
 
         # We add a feature sink in which to store our processed features (this
@@ -216,6 +216,7 @@ class SignStylizer(QgsProcessingAlgorithm):
         " WHEN \"{1}\"=361 AND \"{2}\"=120 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-6.svg\')"+
         " WHEN \"{1}\"=361 AND \"{2}\"=30 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-7.svg\')"+
         " WHEN \"{1}\"=361 AND \"{2}\"=40 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-8.svg\')"+
+        " WHEN \"{1}\"=361 AND \"{2}\"=40 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'-8.svg\')"+
         " ELSE concat(\'{0}\', char(39), {3}, \"{1}\", \'.svg\') END").format(resource_path, value_field, speed_field, path2)
         elif (speed_field and old_or_new_selection=="new"):
             path_exp = ("CASE WHEN \"{1}\"= \'C32\' AND \"{2}\"=20 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_2.svg\')"+
@@ -226,12 +227,21 @@ class SignStylizer(QgsProcessingAlgorithm):
         " WHEN \"{1}\"=\'C32\' AND \"{2}\"=80 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_7.svg\')"+
         " WHEN \"{1}\"=\'C32\' AND \"{2}\"=100 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_8.svg\')"+
         " WHEN \"{1}\"=\'C32\' AND \"{2}\"=120 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_9.svg\')"+
+        " WHEN \"{1}\"=\'C33\' AND \"{2}\"=20 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_2.svg\')"+
+        " WHEN \"{1}\"=\'C33\' AND \"{2}\"=30 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_3.svg\')"+
+        " WHEN \"{1}\"=\'C33\' AND \"{2}\"=50 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_4.svg\')"+
+        " WHEN \"{1}\"=\'C33\' AND \"{2}\"=60 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_5.svg\')"+
+        " WHEN \"{1}\"=\'C33\' AND \"{2}\"=70 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_6.svg\')"+
+        " WHEN \"{1}\"=\'C34\' AND \"{2}\"=30 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_2.svg\')"+
+        " WHEN \"{1}\"=\'C34\' AND \"{2}\"=50 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_3.svg\')"+
+        " WHEN \"{1}\"=\'C35\' AND \"{2}\"=30 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_2.svg\')"+
+        " WHEN \"{1}\"=\'C35\' AND \"{2}\"=50 THEN concat(\'{0}\', char(39), {3}, \"{1}\", \'_3.svg\')"+
         " ELSE concat(\'{0}\', char(39), {3}, \"{1}\", \'.svg\') END").format(resource_path, value_field, speed_field, path2)
         else:
             path_exp = "concat(\'{0}\', char(39), {2}, \"{1}\", \'.svg\')".format(resource_path, value_field, path2)
-        size_exp = ("CASE WHEN @map_scale < 10000 THEN 9 WHEN @map_scale < 50000 THEN 6" + 
+        size_exp = ("CASE WHEN @map_scale < 10000 THEN 7 WHEN @map_scale < 50000 THEN 5.5" + 
                     " WHEN @map_scale < 100000 THEN 5 WHEN @map_scale < 150000 THEN 4.5 WHEN @map_scale < 500000"+ 
-                    " THEN 3.5 ELSE 3 END")
+                    " THEN 3.5 ELSE 2.5 END")
         
         # taking a version of the renderer, which houses the symbol layers
         rend = input_layer.renderer().clone()
