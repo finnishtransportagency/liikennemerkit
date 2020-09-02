@@ -17,7 +17,7 @@ Pistemuotoiset datat voi visualisoida SVG-kuvilla avaamalla tason symbologian ja
 Jos pisteissä on Digiroadin tapaan attribuuttitietona, mitä merkkiä ne esittävät, ne voi visualisoida automaattisesti oikealla merkillä merkkityyliskriptillä. Avaa skripti työkaluvalikosta (*Processing*>*Toolbox*), jossa sen on *Scripts* alavalikon alla (*Finnish traffic sign stylizer*). Valitse skriptin parametrit:
 1. Käytätkö vanhoja vai uusia liikennemerkkejä.
 2. Pistemuotoinen taso (esimerkiksi Digiroadin liikennemerkkipisteet).
-3. Sarake, jossa kolminumeroiset merkkikoodit ovat. Digiroadissa tämä on *TYYPPI* ja tierekisterissä *ASETUSNR*.
+3. Sarake, jossa kolminumeroiset merkkikoodit ovat. Esimerkiksi Digiroadissa tämä on *TYYPPI* ja tierekisterin tietolajissa 506 *S_UUSIASNR*.
 4. *Vapaavalintainen*. Jotta nopeusrajoitusmerkeissä näkyisivät oikeat luvut, valitse sarake, jossa tämä tieto on. DR:ssa sarake *ARVO* ja tierekisterissä *LMTEKSTI*.
 5. Skripti voi myös asettaa kuvat skaalautumaan karttanäkymän mittakaavan mukaan. 
 
