@@ -1,4 +1,4 @@
-![Väyläviraston logo](https://vayla.fi/documents/20473/740592/vayla_sivussa_fi_sv_rgb.png)
+![Väyläviraston logo](https://vayla.fi/o/yja-vayla-theme/images/logos/vayla_sivussa_fi_rgb.png)
 # Suomen liikennemerkit QGIS-kuvakirjastona (BETA)
 [See below for summary in English](https://github.com/finnishtransportagency/liikennemerkit#summary-in-english)
 
