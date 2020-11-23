@@ -30,6 +30,6 @@ Liikennemerkkikuvat jaetaan avoimena datana ilman muita vaatimuksia (CC0). Lue l
 Kehitysehdotuksia tai bugi-ilmoituksia, ruusuja tai risuja? Lähetä ne osoitteeseen paikkatieto(ät)vayla.fi tai avaa uusi keskustelu tämän repositorion *Issues*-välilehdellä.
 
 ### Summary in English
-This repository houses SVG image libraries of Finnish road traffic signs (read more on the signs [here](https://vayla.fi/web/en/road-network/traffic-signs)). The libraries can be imported to QGIS using the [Resource sharing plugin](http://qgis-contribution.github.io/QGIS-ResourceSharing/). The collections also include a prosessing script for easily visualizing a point layer with the images.
+This repository houses SVG image libraries of Finnish road traffic signs (read more on the signs [here](https://vayla.fi/en/transport-network/traffic-signs)). The libraries can be imported to QGIS using the [Resource sharing plugin](http://qgis-contribution.github.io/QGIS-ResourceSharing/). The collections also include a prosessing script for easily visualizing a point layer with the images.
 
 The image data is provided by Finnish Transport Infrastructure Agency and is shared under CC0. Read more on the deed [here](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
