@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="F32_blanko.svg"
+   xml:space="preserve"
+   viewBox="0 0 397.35301 185.69599"
+   height="185.696"
+   width="397.353"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata3882"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs3880" /><sodipodi:namedview
+   inkscape:document-rotation="0"
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="0"
+   inkscape:window-y="322"
+   inkscape:window-x="288"
+   inkscape:cy="92.566108"
+   inkscape:cx="163.17657"
+   inkscape:zoom="0.78494245"
+   showgrid="false"
+   id="namedview3878"
+   inkscape:window-height="480"
+   inkscape:window-width="689"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<g
+   transform="translate(-13.922,-119.75)"
+   id="LWPOLYLINE_230_">
+	
+		<rect
+   id="rect3853"
+   height="185.196"
+   width="396.853"
+   style="fill:#005eb8;stroke:#005eb8;stroke-width:0.5;stroke-miterlimit:10"
+   y="120"
+   x="14.172" />
+</g>
+<g
+   transform="translate(-13.922,-119.75)"
+   id="LWPOLYLINE_223_">
+	<path
+   inkscape:connector-curvature="0"
+   id="path3856"
+   d="m 35.336,305.196 h 354.519 c 11.693,0 21.17,-9.477 21.17,-21.164 V 141.166 C 411.025,129.477 401.548,120 389.855,120 H 35.336 c -11.688,0 -21.164,9.477 -21.164,21.166 v 142.866 c 0,11.688 9.477,21.164 21.164,21.164 z"
+   style="fill:#ffffff" />
+</g>
+<g
+   transform="translate(-13.922,-119.75)"
+   id="LWPOLYLINE_224_">
+	<path
+   inkscape:connector-curvature="0"
+   id="path3859"
+   d="m 35.336,294.617 h 354.519 c 5.85,0 10.584,-4.741 10.584,-10.585 V 141.166 c 0,-5.844 -4.734,-10.582 -10.584,-10.582 H 35.336 c -5.844,0 -10.582,4.738 -10.582,10.582 v 142.866 c 0,5.844 4.739,10.585 10.582,10.585 z"
+   style="fill:#005eb8" />
+</g>
+
+
+
+
+
+</svg>
